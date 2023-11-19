@@ -1,0 +1,47 @@
+body {
+    background-color :rgb(37, 37, 37);
+    width :auto;
+}
+
+h4 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 100%;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 120%;
+}
+
+h2 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 100%;
+}
+
+.column {
+	float: left;
+	width: 16%;
+	padding: 5px;
+}
+
+button {
+    float: right;  
+}
+
+label {
+    float: right;
+}
+
+.play-btn {
+    width: 60px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+hr {
+    width: 100%; 
+}

@@ -1,0 +1,40 @@
+body {
+    background-color :rgb(37, 37, 37);
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 400%;
+    text-align: center;
+}
+
+h4 {
+    color: aliceblue;
+    font-size: 120%;
+}
+
+label {
+	color:aliceblue;
+	font-size: 100%;
+}
+
+.column {
+	float: left;
+	width: 16%;
+	padding: 5px;
+}
+
+button {
+    float: center;  
+}
+
+fieldset
+{
+	border-collapse: collapse;
+	text-align: center;
+	width: 20%;
+}
+
+hr {
+    width: 100%; 
+}
